@@ -1,0 +1,29 @@
+nav {
+    width: 100px;
+    height: 100px;
+}
+nav img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    top: 150px;
+    left: 28%;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(219, 219, 157);
+}
+h4{
+    color: aliceblue;
+    text-decoration: dashed;
+    font-style: normal;
+    font-size: larger;
+
+}
+li{
+ color: rgb(186, 233, 217);   
+}
